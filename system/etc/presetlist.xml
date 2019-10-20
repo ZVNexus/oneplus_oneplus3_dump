@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<prelist version="100" switch="on">
+	<!-- action: 0 default;1 white list; 2 blacklist -->
+	<pkg package="com.eg.android.AlipayGphone" flag="0" action="1"/>
+	<pkg package="com.tencent.mm" flag="0" action="1"/>
+	<pkg package="com.tencent.mobileqq" flag="0" action="1"/>
+	<pkg package="com.sina.weibo" flag="0" action="1"/>
+	<pkg package="com.taobao.taobao" flag="0" action="1"/>
+	<pkg package="com.facebook.orca" flag="0" action="1"/>
+	<pkg package="com.facebook.katana" flag="0" action="1"/>
+	<pkg package="com.whatsapp" flag="0" action="1"/>
+	<pkg package="com.instagram.android" flag="0" action="1"/>
+	<pkg package="com.yahoo.mobile.client.android.yahoo" flag="0" action="1"/>
+	<pkg package="com.google.android.gms" flag="0" action="1"/>
+	<pkg package="com.google.android.gsf" flag="0" action="1"/>
+	<pkg package="com.android.vending" flag="0" action="1"/>
+	<pkg package="com.google.android.googlequicksearchbox" flag="0" action="1"/>
+
+	<pkg package="com.qiyi.video" flag="0" action="2"/>
+</prelist>
