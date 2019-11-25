@@ -1,0 +1,4 @@
+service faceulnative /system/bin/OPFaceUnlockDaemon
+    class late_start
+    user system
+    group system
